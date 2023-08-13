@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hola! mi nombre es Juan Sebastian Olarte 
+
+Soy un programador fullStack que se puede desempeñar tanto en el back-end como en el front-end, creando aplicaciones web completas y de calidad. Me interesé por la programación cuando estaba estudiando en el sena y desde entonces he investigado y aprendido más sobre este tema. Tengo conocimientos y experiencia en diferentes lenguajes, frameworks y librerías, como por ejemplo, JavaScript, React, Node, Express, MongoDB, Bootstrap y Material-UI. Me gusta desarrollar proyectos que sean funcionales, atractivos y útiles para los usuarios. Algunos ejemplos de mis proyectos son una aplicación de mascotas y una aplicación de países. Puedes ver mi portfolio profesional en mi github. Como programador fullStack, me enfrento a retos y dificultades constantemente, pero los supero con creatividad, resolución de problemas y trabajo en equipo. Estoy siempre dispuesto a aprender nuevas tecnologías y a mejorar mis habilidades
+
+
+# mis contactos:
+
+* github: https://github.com/Juanolarte11
+* linkedin: https://www.linkedin.com/in/sebastian-olarte-sanchez-8a2b50205/
+* gmail: sebastiasanchez11@gmail.com
 
 <!--
 **Juanolarte11/Juanolarte11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
